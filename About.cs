@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//activity
 namespace Asgard_Hospital
 {
     public partial class About : Form
