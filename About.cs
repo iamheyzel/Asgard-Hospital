@@ -102,9 +102,7 @@ namespace Asgard_Hospital
 
         private void txtbackAbout_Click(object sender, EventArgs e)
         {
-            Treatment treatment = new Treatment();
-            treatment.Show();
-            this.Hide();
+           
         }
     }
 }
